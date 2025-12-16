@@ -20,6 +20,7 @@
 *   [Windows Terminal](https://aka.ms/terminal) – Terminal application.
 *   [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) – Windows utilities for power users. 🚀
 *   [PowerShell 7](https://google.com/search?q=PowerShell+7+download) – Command-line shell and scripting language. 🚀
+*   [Starship](https://starship.rs/) - Some cool thing for terminals. 
 
 ## Version Control & CLI
 *   [Git](https://git-scm.com/) – Distributed version control system.
@@ -42,3 +43,4 @@
 ## API & Custom Tools
 *   [Scalar](https://scalar.com/) – An awesome API client.
 *   [B85](https://b85.liara.run) – My own app.
+
