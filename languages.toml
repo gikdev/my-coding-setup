@@ -1,0 +1,11 @@
+[language-server.csharp]
+command = "csharp-ls"
+
+[[language]]
+name = "xml"
+file-types = [
+  "xml",
+  "csproj",
+  "props",
+  "slnx"
+]
