@@ -1,0 +1,5 @@
+[font]
+normal = { family = "Monaspace Neon Var" }
+
+[terminal]
+shell = "C:\\Program Files\\Git\\bin\\bash.exe"
