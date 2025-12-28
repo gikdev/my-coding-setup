@@ -16,6 +16,7 @@ alias gps='git push'
 alias gs='git status -s'
 alias gsf='git status'
 alias glz='lazygit'
+alias gf='git fetch'
 
 # Useful
 alias vsc='code .'

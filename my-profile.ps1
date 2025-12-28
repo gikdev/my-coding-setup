@@ -12,6 +12,7 @@ Set-Alias g git
 function gaa { git add -A }
 function gc  { git commit $args }
 function gs  { git status -s }
+function gf  { git fetch }
 function gpl  { git pull }
 function gps  { git push }
 function gsf { git status }
