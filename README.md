@@ -39,5 +39,6 @@
 - [Motrix](https://motrix.app/) – Download manager.
 
 ## API & Custom Tools
-- [Bruon](https://www.usebruno.com/) - Awesome API client.
+- [Bruno](https://www.usebruno.com/) - Awesome API client.
 - [B85](https://b85.liara.run) – My own app.
+
