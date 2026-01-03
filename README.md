@@ -5,7 +5,7 @@
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) – A database client.
 - [Figma](https://www.figma.com/) – UI/UX design and prototyping tool.
 - [JetBrains Rider](https://www.jetbrains.com/rider/) – .NET IDE. 🚀
-- [DataGrip](https://www.jetbrains.com/datagrip/) – Database IDE by JetBrains. 🚀
+<!-- - [DataGrip](https://www.jetbrains.com/datagrip/) – Database IDE by JetBrains. 🚀 -->
 
 ## Communication & Productivity
 - [Google Chrome](https://www.google.com/chrome/) – Web browser.
@@ -17,9 +17,9 @@
 ## System & Terminal
 - [WinGet](https://github.com/microsoft/winget-cli) – Command-line package manager for Windows.
 - [Alacritty](https://alacritty.org/) - Awesome terminal
-- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) – Windows utilities for power users. 🚀
+<!-- - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) – Windows utilities for power users. 🚀 -->
 - [PowerShell 7](https://google.com/search?q=PowerShell+7+download) – Command-line shell and scripting language. 🚀
-- [Starship](https://starship.rs/) - Some cool thing for terminals.
+<!-- - [Starship](https://starship.rs/) - Some cool thing for terminals. -->
 
 ## Version Control & CLI
 - [Git](https://git-scm.com/) – Distributed version control system.
@@ -41,4 +41,3 @@
 ## API & Custom Tools
 - [Bruno](https://www.usebruno.com/) - Awesome API client.
 - [B85](https://b85.liara.run) – My own app.
-
