@@ -1,43 +1,76 @@
 # My Coding Setup
 
-## Development Tools & IDEs
-- [Visual Studio Code](https://code.visualstudio.com/) – Code editor.
-- [Beekeeper Studio](https://www.beekeeperstudio.io/) – A database client.
-- [Figma](https://www.figma.com/) – UI/UX design and prototyping tool.
-- [JetBrains Rider](https://www.jetbrains.com/rider/) – .NET IDE. 🚀
-<!-- - [DataGrip](https://www.jetbrains.com/datagrip/) – Database IDE by JetBrains. 🚀 -->
+## Configs
 
-## Communication & Productivity
-- [Google Chrome](https://www.google.com/chrome/) – Web browser.
-- [Microsoft To Do](https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app) – Task management app. (native 🚀)
-- [Gmail](https://mail.google.com/) – Email service.
-- [Google Keep](https://keep.google.com/) – Note-taking service.
-- [Eitaa](https://google.com/search?q=Eitaa+Messaging) – Messaging application.
+- VSCode profiles at [Gikdev Gists](https://gist.github.com/gikdev)
+- Starship config in the same repo.
+- Powershell profile in the same repo.
+- PowerToys backup in the same repo.
 
-## System & Terminal
-- [WinGet](https://github.com/microsoft/winget-cli) – Command-line package manager for Windows.
-- [Alacritty](https://alacritty.org/) - Awesome terminal
-<!-- - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) – Windows utilities for power users. 🚀 -->
-- [PowerShell 7](https://google.com/search?q=PowerShell+7+download) – Command-line shell and scripting language. 🚀
-<!-- - [Starship](https://starship.rs/) - Some cool thing for terminals. -->
+## Misc
 
-## Version Control & CLI
-- [Git](https://git-scm.com/) – Distributed version control system.
-- [Lazygit](https://github.com/jesseduffield/lazygit) – Terminal UI for Git.
-- [GitHub CLI (gh)](https://cli.github.com/) – Official GitHub command-line tool.
+- Fonts: Monaspace Neon Var, Vazirmatn, Vazir Code Hack
 
-## Development Runtimes & Platforms
-- [PNPM](https://pnpm.io/) - Really good NodeJS package manager.
-- [Node.js](https://nodejs.org/) – JavaScript runtime.
-- [.NET](https://dotnet.microsoft.com/) – Developer platform.
-- [Docker](https://www.docker.com/) – Container platform. 🚀
-- [Lazydocker](https://github.com/jesseduffield/lazydocker) – Terminal UI for Docker. 🚀
+## Tools
 
-## Media & File Management
-- [VLC media player](https://www.videolan.org/vlc/) – Media player.
-- [LocalSend](https://localsend.org/) – File sharing application.
-- [Motrix](https://motrix.app/) – Download manager.
+### 🌐 Web
+- [Chrome](https://www.google.com/chrome/)
+- [Motrix](https://motrix.app/)
 
-## API & Custom Tools
-- [Bruno](https://www.usebruno.com/) - Awesome API client.
-- [B85](https://b85.liara.run) – My own app.
+### 🎥 Media
+- [Camtasia Studio](https://www.google.com/search?q=camtasia)
+- [Free Video Compressor](https://www.freevideocompressor.com/)
+- [VLC media player](https://www.videolan.org/vlc/)
+
+### 🎨 Design
+- [Excalidraw](https://excalidraw.com/)
+- [Figma](https://www.figma.com/)
+
+### 💬 Communication
+- [Eitaa](https://eitaa.com/)
+- [Gmail](https://mail.google.com/)
+- [LocalSend](https://localsend.org/)
+
+### 📝 Productivity
+- [B85](https://b85.liara.run)
+- [Google Calendar](https://calendar.google.com/)
+- [Google Keep](https://keep.google.com/)
+- [Microsoft To Do](https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app)
+- [Pomo CLI](https://github.com/Bahaaio/pomo)
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+
+### 🖥️ Development Tools
+- [.NET](https://dotnet.microsoft.com/)
+- [Bruno](https://www.usebruno.com/)
+- [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/)
+- [GitHub CLI (gh)](https://cli.github.com/)
+- [GitHub Desktop](https://github.com/apps/desktop)
+- [GitHub](https://github.com/)
+- [IT Tools](https://it-tools.tech/)
+- [Lazydocker](https://github.com/jesseduffield/lazydocker)
+- [Lazygit](https://github.com/jesseduffield/lazygit)
+- [Liara](https://liara.ir/)
+- [NeoVim](https://neovim.io/)
+- [Node.js](https://nodejs.org/)
+- [PowerShell 7](https://google.com/search?q=PowerShell+7)
+- [Rider](https://www.jetbrains.com/rider/)
+- [Task](https://taskfile.dev/)
+- [Tokei](https://github.com/XAMPPRocky/tokei)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio](https://visualstudio.microsoft.com/)
+- [Windows Terminal](https://github.com/microsoft/terminal)
+- [WinGet](https://github.com/microsoft/winget-cli)
+
+### 🗄️ DB
+- [Beekeeper Studio](https://www.beekeeperstudio.io/)
+
+### 🚀 Fun
+- [Starship (Pure preset)](https://starship.rs/presets/pure-preset)
+
+### ⚙️ System & Utilities
+- [Nilesoft Shell](https://github.com/std-microblock/nilesoft-shell)
+- [WinRAR](https://www.google.com/search?q=winrar)
+
+<!-- ### 🔍 Reference & Search -->
+<!-- ### 🖱️ Misc / Other Tools -->
