@@ -8,14 +8,11 @@ Set-Alias v nvim
 # Git
 Set-Alias g git
 
-function gaa { git add -A }
-function gc  { git commit @args }
 function gs  { git status -s }
-function gsf { git status }
-function gf  { git fetch }
-function gpl { git pull }
-function gps { git push }
-function glz { lazygit }
+function gaaac { 
+  git add -A
+  git commit @args
+}
 
 # VS Code
 function vsc  { code . }
@@ -42,4 +39,4 @@ function efd  { dotnet ef database @args }
 function efdu { dotnet ef database update @args }
 
 # Starship.rs prompt
-# Invoke-Expression (&starship init powershell)
+Invoke-Expression (&starship init powershell)
